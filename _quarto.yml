@@ -103,4 +103,6 @@ format:
 execute: 
   freeze: auto
 
-include-in-header: assets/silvia/umami.html
+include-in-header:
+  - assets/silvia/umami.html
+  - assets/silvia/google-search-console.html
