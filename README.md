@@ -1,1 +1,1 @@
-# Personal website for<br>Fabio Demaria <a href='https://silvia.rbind.io'><img src='https://github.com/spcanelon/silvia/assets/49913337/d9aa4577-983e-4423-932d-9836bf60c4f4' align="right" height="180" alt=''/></a>
+# Personal website for<br>Fabio Demaria
